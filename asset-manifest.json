@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/karthikanagaraj26/School/static/css/main.e6c13ad2.css",
+    "main.js": "/karthikanagaraj26/School/static/js/main.03695ac0.js",
+    "static/media/BoyImage.png": "/karthikanagaraj26/School/static/media/BoyImage.47b803ff574ae87f63ac.png",
+    "static/media/3.png": "/karthikanagaraj26/School/static/media/3.2d2b2041c25a5a601bb3.png",
+    "static/media/Image 1.png": "/karthikanagaraj26/School/static/media/Image 1.822aeedb5d69d8375c53.png",
+    "static/media/1.png": "/karthikanagaraj26/School/static/media/1.60e975493371a7f9462e.png",
+    "static/media/2.png": "/karthikanagaraj26/School/static/media/2.8e9ec516509ad08a50b4.png",
+    "static/media/Image 2.png": "/karthikanagaraj26/School/static/media/Image 2.5d11adf8aa5a7f39992f.png",
+    "index.html": "/karthikanagaraj26/School/index.html",
+    "main.e6c13ad2.css.map": "/karthikanagaraj26/School/static/css/main.e6c13ad2.css.map",
+    "main.03695ac0.js.map": "/karthikanagaraj26/School/static/js/main.03695ac0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.03695ac0.js"
+  ]
+}
