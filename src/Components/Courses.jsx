@@ -21,7 +21,11 @@ function Courses() {
           color: "#E74040",
           fontFamily: "montserrat",
           fontWeight: "bold",
-          
+          alignItems:{
+            xs:"center",
+            md:"center",
+            lg:"left"
+          }
           
         }}
       >
@@ -34,7 +38,7 @@ function Courses() {
           fontWeight: "bold",
           mt: 2,
           fontFamily: "montserrat",
-       
+          
         }}
       >
         Our Popular Courses
@@ -46,7 +50,7 @@ function Courses() {
           mt: 2,
           maxWidth: "500px",
           fontFamily: "montserrat",
-         
+          
          
         }}
       >

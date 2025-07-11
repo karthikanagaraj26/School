@@ -9,10 +9,10 @@ import TwitterIcon from '@mui/icons-material/Twitter';
 
 function Footer() {
   return (
-    <Box sx={{ flexGrow: 1, p: 4, bgcolor: 'white' }}>
+    <Box sx={{  p: 4, bgcolor: 'white' }}>
       <Grid
         container
-        spacing={4}
+        gap={5}
         justifyContent="center"
         sx={{
           textAlign: {
@@ -23,7 +23,7 @@ function Footer() {
         }}
       >
         {/* Company Info */}
-        <Grid item xs={12} sm={6} md={2.4}>
+        <Grid item xs={12} sm={6} md={2.4} >
           <Typography variant="h6" gutterBottom>Company Info</Typography>
           <Typography color="text.secondary">About Us</Typography>
           <Typography color="text.secondary">Career</Typography>
@@ -32,7 +32,7 @@ function Footer() {
         </Grid>
 
         {/* Legal */}
-        <Grid item xs={12} sm={6} md={2.4}>
+        <Grid item xs={12} sm={6} md={2.4}ml={3}>
           <Typography variant="h6" gutterBottom>Legal</Typography>
           <Typography color="text.secondary">About Us</Typography>
           <Typography color="text.secondary">Carrier</Typography>

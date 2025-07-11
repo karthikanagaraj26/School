@@ -58,7 +58,7 @@ function Header() {
             fontWeight: "bold",
             textAlign: { xs: "center", md: "left" },
             flexGrow: { xs: 1, md: "unset" },
-        ml:10
+            ml:{xs:2,lg:10}
           }}
         >
           Brandname

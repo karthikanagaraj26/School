@@ -24,7 +24,7 @@ function Pricing() {
           fontWeight: "bold",
           mt: 2,
           fontFamily: "montserrat",
-         
+          
         }}
       >
         Watch our Courses
@@ -41,11 +41,11 @@ function Pricing() {
           fontWeight: "bold",
           fontFamily: "montserrat",
           textAlign: {
-            xs: "center",
-            md: "center",
+            xs: "left",
+            md: "left",
             lg: "left",
           },
-          mx: { lg: 0, xs: "auto" },
+          
         }}
       >
         Problems trying to resolve the conflict between the two major realms of Classical physics: Newtonian mechanics.
@@ -113,6 +113,7 @@ function Pricing() {
                 alignItems: "center",
                 justifyContent: "center",
                 mb: 2,
+                
               }}
             >
               <FavoriteIcon sx={{ color: "#E74040", fontSize: 30 }} />

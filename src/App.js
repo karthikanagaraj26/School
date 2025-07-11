@@ -9,6 +9,7 @@ import News from './Components/News';
 import Footer from './Components/Footer';
 function App() {
   return (
+    
     <Box>
       <Header/>
       <Education/>
@@ -18,6 +19,7 @@ function App() {
       <News/>
       <Footer/>
     </Box>
+    
   );
 }
 
